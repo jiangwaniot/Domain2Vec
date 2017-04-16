@@ -1,0 +1,7 @@
+如何衡量两个人的距离
+
+top 10000
+
+distance = A and B / A + B
+
+A{太大} ——> 稀疏化  word2vec key_extraction
