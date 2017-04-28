@@ -2,6 +2,10 @@
 
 top 10000
 
-distance = A and B / A + B
-
 A{太大} ——> 稀疏化  word2vec key_extraction
+domain score
+top 10
+distance =  A + B / A
+
+
+doc2vec 论文
